@@ -1,0 +1,24 @@
+{
+  "name": "rest-orderonline",
+  "version": "1.0.0",
+  "description": "Aplikasi Rest Api Order Online MJC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taufiqardiantom/rest-orderonline.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "qifuat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taufiqardiantom/rest-orderonline/issues"
+  },
+  "homepage": "https://github.com/taufiqardiantom/rest-orderonline#readme"
+}
